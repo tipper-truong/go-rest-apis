@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+github.com/tipper-truong/go-rest-apis v0.0.0-20240303194359-32d585c222f6 h1:1OfAX9Bt+5J79T7YKWlLChU5D6UAOc3K4YLkGnTIA6Q=
+github.com/tipper-truong/go-rest-apis v0.0.0-20240303194359-32d585c222f6/go.mod h1:flgHl7v1WUAx+gsxKGgPwaem5tq/vRjOhi6nF+uDDdw=
