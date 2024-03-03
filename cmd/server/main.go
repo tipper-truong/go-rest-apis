@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	transportHTTP "github.com/tipper-truong/go-rest-apis/internal/transport/http"
+	transportHTTP "github.com/tipper-truong/go-rest-apis/internal/transport"
 )
 
 // App - the struct which contains things like pointers
